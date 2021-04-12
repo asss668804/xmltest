@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <game>
+        <string>ag2.cf746.com:8101</string>
+    </game>
+    <gc>
+        <string>https://www.gci8.com</string>
+    </gc>
+    <web>www.118btt.com</web>
+    <webapi>https://xxx.xxx.xxx</webapi>
+    <app>0</app>
+    <searchapi>https://ag2.cf746.com:6339</searchapi>
+    <collectionapi>https://mbmgr-api.mbmgr.com</collectionapi>
+    <serverconnect>https://datamgr.9mbv.com:7000</serverconnect>
+    <oraUrl>https://ag2.9mbv.com:3639</oraUrl>
+</config>

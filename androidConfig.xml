@@ -12,5 +12,5 @@
     <searchapi>https://ag2.cf746.com:6339</searchapi>
     <collectionapi>https://mbmgr-api.mbmgr.com</collectionapi>
     <serverconnect>https://datamgr.9mbv.com:7000</serverconnect>
-    <oraUrl>https://ag2.9mbv.com:3639</oraUrl>
+    <oraUrl>https://ag2.9mbvtest.com:3639</oraUrl>
 </config>
